@@ -1,0 +1,10 @@
+.deletesong{
+    position: absolute;
+    top: 5%;
+    right: 10%;
+}
+.updatesong{
+    position: absolute;
+    top: 5%;
+    right: 20%;
+}

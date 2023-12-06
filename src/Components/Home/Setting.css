@@ -1,0 +1,67 @@
+.spg{
+  position: absolute;
+  background-color: black;
+  height: 100%;
+  width: 100%;
+  color: beige;
+}
+.sname{
+  position: absolute;
+  left: 45%;
+  top: 20%;
+}
+.forme{
+  position: absolute;
+  left: 38%;
+  top: 35%;
+}
+.formu{
+  position: absolute;
+  left: 38%;
+  top: 40%;
+}
+.formn{
+  position: absolute;
+  left: 38%;
+  top: 45%;
+}
+.formh{
+  position: absolute;
+  left: 38%;
+  top: 45%;
+}
+.formph{
+  position: absolute;
+  left: 38%;
+  top: 50%;
+}
+.formp{
+  position: absolute;
+  left: 38%;
+  top: 55%;
+}
+.formb{
+  position: absolute;
+  left: 44%;
+  top: 65%;
+}
+.imput1{
+  position: absolute;
+  left: 275%;
+}
+.imput2{
+  position: absolute;
+  left: 300%;
+}
+.imput3{
+  position: absolute;
+  left: 165%;
+}
+.imput4{
+  position: absolute;
+  left: 113%;
+}
+.imput5{
+  position: absolute;
+  left: 175%;
+}

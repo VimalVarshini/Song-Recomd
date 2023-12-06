@@ -1,0 +1,138 @@
+.DashAllign
+{
+    position: absolute;
+    left: 5%;
+    top: 2%;
+    height: 5%;
+    width: 5%;
+    color: white;
+}
+.Dash
+{
+    position: absolute;
+    left: 2.5%;
+    top: 2.5%;
+    height: 5%;
+    width: 5%;
+    color: rgb(255, 251, 251);
+}
+.Navbar
+{
+    position: absolute;
+    left: 0%;
+    width: 100%;
+}
+.sidebar li
+{
+    color: white;
+    background-color: #10182F;
+}
+.namelogin
+{
+    position: absolute;
+    left:97%;
+}
+.noti
+{
+    position: absolute;
+    left: -90%;
+}
+.accsong
+{
+    position: absolute;
+    left: -70%;
+}
+.Sidebar
+{
+    position: absolute;
+    left: 96%; 
+
+}
+.font
+{
+    font-style: oblique;
+    font-size: medium;
+}
+.abtsong
+{
+    position: absolute;
+    justify-content: center;
+    display: flex;
+    top: 0%;
+    left: 0%;
+    height: 100%;
+    width: 100%;
+    background-color: #10182F;
+    color: white;  
+    flex-wrap: wrap;
+}
+.absonghe
+{
+    position: absolute;
+    justify-content: center;
+    top: 2%;
+}
+.privacy
+{
+    position: absolute;
+    justify-content: center;
+    display: flex;
+    top: 0%;
+    left: 0%;
+    height: 100%;
+    width: 100%;
+    background-color: #10182F;
+    color: white;  
+    flex-wrap: wrap;
+}
+.privacyp
+{
+    position: absolute;
+    justify-content: center;
+    top: 2%;
+}
+.terms
+{
+    position: absolute;
+    justify-content: center;
+    display: flex;
+    top: 0%;
+    left: 0%;
+    height: 100%;
+    width: 100%;
+    background-color: #10182F;
+    color: white;  
+    flex-wrap: wrap;
+}
+.termsp
+{
+    position: absolute;
+    justify-content: center;
+    top: 2%;
+}
+.Musicplayer
+{
+    display: grid;
+    position: absolute;
+    height: 90vh;
+    width: 83.5%;
+    background-color: #10182F;
+    gap: 40px;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top : 4.23%;
+    left: 16.5%;
+    padding : 40px;
+    padding-top:70px;
+}
+.homedrawer{
+    position: absolute;
+    top: 2%;
+    left: 30%;
+}
+.sidemenu{
+    position: absolute;
+}
+.name{
+    position: absolute;
+    left: 7%;
+}

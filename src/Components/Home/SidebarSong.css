@@ -1,0 +1,85 @@
+
+.sidebar {
+  position: absolute;
+    width: 250px;
+    height: 130.2%;
+    background-color:#10182F;
+    color: rgb(255, 255, 255);
+    top: 7.45%;
+    left: 0;
+    overflow-y: auto;
+    
+  }
+  
+  /* Sidebar Item Styles */
+  .sidebar ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .sidebar li {
+    padding: 15px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+   
+  }
+  
+  .sidebar li.active {
+    background-color: #555;
+    
+  }
+  
+  /* Sidebar Item Hover Styles */
+  .sidebar li:hover {
+    background-color: #555;
+    
+  }
+  
+  /* Sidebar Item Text Styles */
+  .sidebar li a {
+    text-decoration: none;
+    color: #fff;
+    margin-left: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+  }
+  
+  /* Sidebar Item Active Text Styles */
+  .sidebar li.active a {
+    font-weight: bold;
+  }
+  
+  /* Sidebar Scrollbar Styles (if needed) */
+  .sidebar::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  .sidebar::-webkit-scrollbar-thumb {
+    background-color: #888;
+    border-radius: 5px;
+  }
+  
+  .sidebar::-webkit-scrollbar-thumb:hover {
+    background-color: #666;
+  }
+  .Settingside
+  {
+    position: absolute;
+    top: 84.5%;
+    width: 250px;
+  }
+  .Dash-icon{
+    position: absolute;
+    margin-left: 0px;
+  }
+  .playlist-icon{
+    position: absolute;
+    margin-left: 0px;
+  }
+  .like-icon{
+    position: absolute;
+    margin-left: 0px;
+  }
+  .setting-icon{
+    position: absolute;
+    margin-left: 0px;
+  }

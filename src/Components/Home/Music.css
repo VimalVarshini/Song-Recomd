@@ -1,0 +1,12 @@
+.music{
+    /* position: absolute;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    top: 15%;
+    left: 20%; */
+    grid-template-columns:repeat(3,12px) ;
+    grid-template-rows:repeat(3,auto) ;
+   
+    
+   
+}
